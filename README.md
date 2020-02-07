@@ -20,7 +20,7 @@ based on [wsldl](https://github.com/yuk7/wsldl)
 
 #### 2. Extract all files in zip file to same directory
 
-#### 3.Run Clear.exe to Extract rootfs and Register to WSL
+#### 3. Run Clear.exe to Extract rootfs and Register to WSL
 Exe filename is used to register the instance name.
 If you rename it, you can register with a different name and have multiple installs.
 
