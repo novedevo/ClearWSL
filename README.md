@@ -1,5 +1,5 @@
 # ClearWSL
-Clear Linux on WSL (Windows 10 FCU or later)
+Clear Linux on WSL (Windows 10 x64 1709 (Fall Creators Update) or later)
 based on [wsldl](https://github.com/yuk7/wsldl)
 
 ![screenshot](https://raw.githubusercontent.com/wiki/yuk7/wsldl/img/Cent_Arch_Alpine.png)
@@ -12,7 +12,7 @@ based on [wsldl](https://github.com/yuk7/wsldl)
 
 
 ## Requirements
-* Windows 10 Fall Creators Update x64 or later.
+* Windows 10 1709 Fall Creators Update x64 or later.
 * Windows Subsystem for Linux feature is enabled.
 
 ## Install
